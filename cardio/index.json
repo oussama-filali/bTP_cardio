@@ -1,0 +1,1 @@
+{"schemaVersion":2,"mediaType":"application/vnd.oci.image.index.v1+json","manifests":[{"mediaType":"application/vnd.oci.image.manifest.v1+json","digest":"sha256:d146425881ee70134f24885fad598c172781b8b8034a8618656788b867995e27","size":1605,"annotations":{"io.containerd.image.name":"docker.io/library/btp-cardio:1.8","org.opencontainers.image.ref.name":"1.8"}}]}
